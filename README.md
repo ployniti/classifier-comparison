@@ -1,4 +1,4 @@
-# Project Goals
+# Classifier Comparison
 This project sets out to explore correlations, if any, between different attributes of secondary school students and their performance in math and Portuguese language courses as represented by their final grades in the courses. 
 
 As part of the project, I attempted to train and tune Multilayer Perceptron (MLP)/Neural Network (NN), using PyTorch, and Support Vector Machine (SVM), using Scikit Learn, on the [student dataset](https://www.kaggle.com/datasets/uciml/student-alcohol-consumption/code?datasetId=251&sortBy=voteCount) in order to predict their final grades and conducted a comparison of the two models’ performance.
